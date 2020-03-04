@@ -1,0 +1,137 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+}
+#header {
+    height: 80px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #E19E1F;
+}
+#navega {
+    /* [disabled]width: 8px; */
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* [disabled]color: #FFFFFF; */
+    text-shadow: 0px 0px;
+    background-color: #FFF300;
+    height: 30px;
+}
+#content #navega {
+}
+#banner {
+    height: 200px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #72DF7C;
+}
+#mainhead {
+    height: 30px;
+    color: #EF8DED;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    background-color: #FCA3F9;
+}
+#contenido {
+    height: 600px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    -webkit-box-shadow: 0px 0px #FFFD94;
+    box-shadow: 0px 0px #FFFD94;
+    background-color: #F2ED88;
+    color: #000000;
+}
+#footer {
+    height: 150px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    background-color: #FA0004;
+}
+#leftside {
+    background-color: #30CDBA;
+    padding: 10px;
+    float: left;
+    height: 580px;
+    width: 40%;
+    margin-right: 15px;
+}
+#rightside {
+    background-color: #0F1AD4;
+    padding: 10px;
+    float: right;
+    height: 580px;
+    width: 52%;
+}
+#menu fijo {
+    background-color: #055612;
+    margin-left: 33%;
+    position: fixed;
+}
+#menufijo {
+    background-color: #176E16;
+    margin-left: 33%;
+    position: fixed;
+}
+#c1 {
+    background-color: #EA0A0D;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 1;
+    left: 390px;
+    top: 513px;
+}
+#c2 {
+    background-color: #FFF300;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 2;
+}
+#c3 {
+    background-color: #32BC30;
+    height: 120px;
+    width: 120px;
+    z-index: 3;
+}
+#c4 {
+    background-color: #4621A4;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 4;
+}
+#c5 {
+    background-color: #BE19BA;
+    height: 120px;
+    width: 120px;
+    z-index: 5;
+}
+body {
+    margin-top: 0vmax;
+    margin-right: 0vmax;
+    margin-bottom: 0vmax;
+    margin-left: 0vmax;
+}
